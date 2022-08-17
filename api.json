@@ -1,0 +1,18 @@
+ [{"img":"pexels-binyamin-mellish-1396132", "price": 5000 ,"location":"Pune","area":100,"room":3},
+{"img":"pexels-pixabay-280229", "price": 7000 ,"location":"Mumbai","area":200,"room":2},
+{"img":"pexels-pixabay-280229", "price": 7000 ,"location":"Mumbai","area":200,"room":2},
+{"img":"pexels-graphicgumcom-1115804", "price": 10000 ,"location":"Pune","area":150,"room":1},
+{"img":"pexels-pixabay-280229", "price": 7000 ,"location":"New Delhi","area":150,"room":3},
+{"img":"pexels-expect-best-323775", "price": 10000 ,"location":"New Delhi","area":150,"room":3},
+{"img":"pexels-graphicgumcom-1115804", "price": 5000 ,"location":"Pune","area":50,"room":3},
+{"img":"pexels-binyamin-mellish-1396132", "price": 5000 ,"location":"Mumbai","area":100,"room":3},
+{"img":"pexels-expect-best-323775", "price": 10000 ,"location":"New Delhi","area":100,"room":3},
+{"img":"pexels-pixabay-259588", "price": 5000 ,"location":"New Delhi","area":50,"room":3},
+{"img":"pexels-pixabay-280229", "price": 10000 ,"location":"Kerela","area":100,"room":4},
+{"img":"pexels-binyamin-mellish-1396132", "price": 5000 ,"location":"Kerela","area":100,"room":2},
+{"img":"pexels-graphicgumcom-1115804", "price": 10000 ,"location":"Pune","area":50,"room":3},
+{"img":"pexels-expect-best-323775", "price": 7000 ,"location":"New Delhi","area":200,"room":3},
+{"img":"pexels-pixabay-259588", "price": 7000 ,"location":"Chennai","area":200,"room":1},
+{"img":"pexels-pixabay-280229", "price": 7000 ,"location":"New Delhi","area":150,"room":3},
+ {"img":"pexels-graphicgumcom-1115804", "price":10000 ,"location":"New Delhi","area":100,"room":3}
+]
